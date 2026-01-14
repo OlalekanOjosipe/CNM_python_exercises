@@ -1,0 +1,10 @@
+The square root of 0 is 0.00000
+The square root of 1 is 1.00000
+The square root of 2 is 1.41421
+The square root of 3 is 1.73205
+The square root of 4 is 2.00000
+The square root of 5 is 2.23607
+The square root of 6 is 2.44949
+The square root of 7 is 2.64575
+The square root of 8 is 2.82843
+The square root of 9 is 3.00000

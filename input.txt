@@ -1,0 +1,22 @@
+# Reaction input file
+# Units:
+# masses in atomic mass units (u)
+# energy in MeV
+# thickness in mg/cm2
+# solid angle in sr
+
+projectile_mass_u = 4.002602
+projectile_charge = 2
+
+target_mass_u = 12.000000
+target_charge = 6
+
+beam_energy_mev = 10.0
+
+intensity_pps = 1e6
+target_thickness_mgcm2 = 1.0
+detector_solid_angle_sr = 1e-3
+
+# (Recommended) molar mass for rate calculation:
+target_molar_mass_g_mol = 12.0
+
